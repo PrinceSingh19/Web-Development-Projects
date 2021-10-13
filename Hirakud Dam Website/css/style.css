@@ -1,0 +1,92 @@
+#nav-bar{
+margin-bottom: 10px;}
+.btn:hover {
+    color: #FFEB3B;
+    text-decoration: initial;
+}
+
+.navbar-brand img{
+    width: 25%;
+}
+header{
+    margin-bottom: 0px;
+}
+.nav-link{
+    font-weight: 600;
+}
+.carousel-item img{
+    width: 989px;
+    height: 309px;
+}
+#left{
+    float: left;
+    width: 50%;
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#right{
+    float: left;
+    width: 40%;
+    margin-top: 10px;
+}
+#slider2 img{
+    position: relative;
+    left: 20%;
+    top: 23px;
+    width: 40%;
+    height: 100px;
+    padding: 1%;
+    border: #000000;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 23px; 
+    float: left;
+    
+}
+#align img{
+    
+    width: 40%;
+    height: 100px;
+    float: left;
+}
+.scale:hover{
+    transform: scale(1.2);
+    z-index: 1;
+}
+.page-footer{
+    clear: both;
+}
+#cen{
+    margin: 10% 10% 10% 10%;
+}
+#cent{
+     margin: 10% 10% 10% 10%;
+     text-align: justify;
+}
+#cente{
+     margin: 10% 10% 10% 10%;
+}
+#centee{
+     margin: 15% 10% 10% 17%;
+}
+#ali{
+       margin: 13% 10% 0% 10%;
+}
+#alli{
+       margin: 2% 10% 0% 10%;
+}
+#allli{
+       margin: 2% 10% 0% 10%;
+}
+.para{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    padding: 1%;
+    margin-bottom: 1%;
+   
+}
+.mb-0{
+    color: aliceblue;
+}
+
