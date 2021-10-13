@@ -1,0 +1,86 @@
+body{
+  background-color: #9fa8fb;
+  margin: 1% 1% 1% 5%;
+  color: white;
+  background-image:url('https://images.unsplash.com/photo-1475070929565-c985b496cb9f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+  font-family: 'Poppins', sans-serif;
+}
+#title {
+  text-align: center;
+}
+#description{
+    font-style: italic;
+    font-weight: 200;
+    text-shadow: 1px 1px 1px rgb(0 0 0 / 40%);
+    text-align: center;
+}
+#survey-form{
+    width: 50%;
+    background-color: #000000;
+    margin: 1% auto 2% auto;
+    border-radius: 10px;
+  opacity:0.9;
+  
+}
+.personal{
+    padding: 3% 6% 2% 6%;
+    font-size: 20px;
+}
+label{
+    display: block;
+    padding: 20px 0 10px 0;
+
+}
+section.personal input{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+}
+#dropdown{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    }
+.dropdown-content{
+    display: inline-block;
+    position:relative;
+}
+.dropdown-content:hover{
+  background-color: #737373;
+  
+}
+.survey{
+  padding: 3% 6% 2% 6%;
+    font-size: 20px;
+}
+
+section.survey label{
+  padding: 20px 0 10px 0;
+}
+section.survey label{
+  display: inline-block;
+  padding: 0 0 1px 0;
+}
+#feature{
+  padding: 20px 0 10px 0;
+}
+.checkbox{
+  padding: 20px 0 10px 0;
+}
+#suggest{
+  min-height: 120px;
+  width: 100%;
+  padding: 10px 0 5px 0;
+  resize: vertical;
+}
+.button{
+  text-align:center;
+}
+#submit{
+  width:100%;
+  height:40px;
+  background-color: #37af65; 
+  border-radius:5px;
+}
+
+
