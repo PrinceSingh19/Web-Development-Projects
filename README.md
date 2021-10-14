@@ -12,6 +12,8 @@ https://princesingh19.github.io/Web-Development-Projects/Survey%20Form/
 
 https://princesingh19.github.io/Web-Development-Projects/Tribute%20Page/
 
+https://princesingh19.github.io/Web-Development-Projects/Technical%20Documentation%20Page/
+
 
 
 
